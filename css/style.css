@@ -16,7 +16,7 @@ body{
     color: white;
 }
 canvas{
-    background-color: #111;
+    background-color: #111111dc;
 }
 .score {
     display: flex;
